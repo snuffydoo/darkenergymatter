@@ -146,3 +146,12 @@ highlight {
 #topicThreeQuestion {
     padding-top: 500px;
 }
+/* works cited */
+#worksCited {
+    width: 100%;
+    text-align: center;
+}
+
+#worksCitedTitle {
+    padding-top: 700px;
+}

@@ -11,5 +11,5 @@ document.getElementById('topic3').addEventListener('click', function () {
 })
 
 document.getElementById('homeicon').addEventListener('click', function() {
-    window.location = '#top'
+    window.scrollTo(0, 0);
 })
